@@ -7,4 +7,5 @@
 * Utilizes Pandas to read, clean, merge, and analyze Kaggle CSVs of the Economic Freedom Index and Human Freedom Index.
 
 
-![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/International%20Political%20Compass.png)
+![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
+![WorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20World%20Map.png)
