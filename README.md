@@ -5,3 +5,6 @@
  
 * Visualizes the relative economic and social ideologies of 159 nations on an interactive cartesian scatter plots and world maps.
 * Utilizes Pandas to read, clean, merge, and analyze Kaggle CSVs of the Economic Freedom Index and Human Freedom Index.
+
+
+![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/International%20Political%20Compass.png)
