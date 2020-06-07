@@ -8,6 +8,9 @@
 
 
 ![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
+
+* Below are some--not all--interactive graphs.
+
 ![WorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20World%20Map.png)
 ![RegionImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/region.png)
 ![RegressionImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regression.png)
