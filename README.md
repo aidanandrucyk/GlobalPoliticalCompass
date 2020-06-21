@@ -22,15 +22,15 @@ The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) tr
 ### Findings
 * There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.
 * The following is the relative ideological breakdown and intuitively supports above statement: 
-** Libertarian Right      37
-** Authoritarian Left     32
-** Authoritarian          19
-** Libertarian            18
-** Centrist               18
-** Left                   18
-** Authoritarian Right     7
-** Right                   6
-** Libertarian Left        4
+Libertarian Right      37
+Authoritarian Left     32
+Authoritarian          19
+Libertarian            18
+Centrist               18
+Left                   18
+Authoritarian Right     7
+Right                   6
+Libertarian Left        4
 
 ![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
