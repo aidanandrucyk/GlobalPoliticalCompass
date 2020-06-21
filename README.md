@@ -5,10 +5,10 @@
 **The final dataframe is contigent upon two major data sets: the Human Freedom Index and the Economic Freedom Index.**
 
 ### Human Freedom Index
-The [**Human Freedom Index**](https://www.cato.org/human-freedom-index-new) measures economic freedoms such as the freedom to trade or to use sound money, and it captures the degree to which people are free to enjoy the major freedoms often referred to as civil liberties—freedom of speech, religion, association, and assembly— in the countries in the survey. In addition, it includes indicators on rule of law, crime and violence, freedom of movement, and legal discrimination against same-sex relationships. We also include nine variables pertaining to women-specific freedoms that are found in various categories of the index.
+The [**Human Freedom Index**](https://www.cato.org/human-freedom-index-new) measures economic freedoms such as the freedom to trade or to use sound money, and it captures the degree to which people are free to enjoy the major freedoms often referred to as civil liberties—freedom of speech, religion, association, and assembly— in the countries in the survey. In addition, it includes indicators on rule of law, crime and violence, freedom of movement, and legal discrimination against same-sex relationships. It also include nine variables pertaining to women-specific freedoms that are found in various categories of the index.
 
 ### Economic Freedom Index
-The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) is poised to help readers track over two decades of the advancement in economic freedom, prosperity, and opportunity and promote these ideas in their homes, schools, and communities. The Index covers 12 freedoms – from property rights to financial freedom – in 186 countries. The measurement of economic freedom is based on 12 quantitative and qualitative factors, grouped into four broad categories, or pillars, of economic freedom:
+The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) tracks over two decades of the advancement in economic freedom, prosperity, and opportunity and promote these ideas in their homes, schools, and communities. The Index covers 12 freedoms – from property rights to financial freedom – in 186 countries. The measurement of economic freedom is based on 12 quantitative and qualitative factors, grouped into four broad categories, or pillars, of economic freedom:
 * Rule of Law (property rights, government integrity, judicial effectiveness)
 * Government Size (government spending, tax burden, fiscal health)
 * Regulatory Efficiency (business freedom, labor freedom, monetary freedom)
@@ -20,8 +20,17 @@ The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) is
 * Utilized Pandas to clean, merge, and analyze Kaggle CSVs of indices on a Jupyter Notebook environment.
 
 ### Findings
-* There is a .63 pearson coefficient of correlation between the freedom and economic index scores.
-* 
+* There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.
+* The following is the relative ideological breakdown and intuitively supports above statement: 
+** Libertarian Right      37
+** Authoritarian Left     32
+** Authoritarian          19
+** Libertarian            18
+** Centrist               18
+** Left                   18
+** Authoritarian Right     7
+** Right                   6
+** Libertarian Left        4
 
 ![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
