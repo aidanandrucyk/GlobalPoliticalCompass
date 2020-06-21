@@ -1,6 +1,6 @@
 # International Political Compass
 
-## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1_OC1D7eUprJ3U2NDOzBN3HlMCF_mAGMt?authuser=1#scrollTo=eHsTiHdxofPc&uniqifier=4) as many features including plotly graph interactivity are not available unless using a notebook. 
+## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1XhuR6I9JEl7EBBPQm05sesLyyV_8NyMp?usp=sharing) as many features including plotly graph interactivity are not available unless using a notebook. 
 
  
 * Visualizes the relative economic and social ideologies of 159 nations on interactive scatter plots and world maps.
