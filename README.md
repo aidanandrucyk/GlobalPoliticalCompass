@@ -1,5 +1,5 @@
 # International Political Compass
-Aidan M. Andrucyk, June 2020
+Aidan M. Andrucyk | June 2020 | Google Colab (Jupyter Notebook) Environment
 ## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1XhuR6I9JEl7EBBPQm05sesLyyV_8NyMp?usp=sharing) as many features including plotly graph interactivity are not available unless using a notebook. 
 ![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
