@@ -24,7 +24,7 @@ The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) tr
 * Personal freedom scores appear to be highest in first world countries and lowest in the Middle East and Northern Africa (MENA):<br/>
 ![EconomicWorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/personal_freedom_plotly_map.png)
 
-* The standard deviation for each metric is less than the respective interquartile range (closest being economic freedom with .280689 > |(.185237-(-.179666))|, indicating little extremeties and clustering around the median.<br/>  
+* The standard deviation for each metric is less than the respective interquartile range (closest being economic freedom with .280689 > |(.185237-(-.179666))|, indicating few extremeties and a roughly symmetric spread.<br/>  
 ![describe_table](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/breakdown.png)
 
 * There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.<br/>
