@@ -1,7 +1,8 @@
 # International Political Compass
 
 ## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1XhuR6I9JEl7EBBPQm05sesLyyV_8NyMp?usp=sharing) as many features including plotly graph interactivity are not available unless using a notebook. 
-### The final dataframe is contigent upon two major data sets: the Human Freedom Index and 
+
+**The final dataframe is contigent upon two major data sets: the Human Freedom Index and the Economic Freedom Index.**
 
 ### Human Freedom Index
 The [**Human Freedom Index**](https://www.cato.org/human-freedom-index-new) measures economic freedoms such as the freedom to trade or to use sound money, and it captures the degree to which people are free to enjoy the major freedoms often referred to as civil liberties—freedom of speech, religion, association, and assembly— in the countries in the survey. In addition, it includes indicators on rule of law, crime and violence, freedom of movement, and legal discrimination against same-sex relationships. We also include nine variables pertaining to women-specific freedoms that are found in various categories of the index.
