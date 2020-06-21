@@ -9,8 +9,9 @@
 
 ![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
-* Below are some--not all--interactive graphs.
+* Below are a few more visuals from the notebook
 
-![WorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20World%20Map.png)
-![RegionImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/region.png)
-![RegressionImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regression.png)
+![EconomicWorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/personal_freedom_plotly_map.png)
+![Pairplot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/pairgrid.png)
+![Region](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/region.png)
+![RegressionJointPlot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regressionjointplot.png)
