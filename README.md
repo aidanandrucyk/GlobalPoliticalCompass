@@ -1,4 +1,5 @@
 # International Political Compass
+![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
 ## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1XhuR6I9JEl7EBBPQm05sesLyyV_8NyMp?usp=sharing) as many features including plotly graph interactivity are not available unless using a notebook. 
 
@@ -20,23 +21,20 @@ The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) tr
 * Utilized Pandas to clean, merge, and analyze Kaggle CSVs of indices on a Jupyter Notebook environment.
 
 ### Findings
+* Each standard deviation less than the respective interquartile range (closest being economic freedom with .280689 > |(.185237-(-.179666))|, indicating little extremeties and clustering around the median.   
+![describe_table](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/breakdown.png)
+
 * There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.
-* The following is the relative ideological breakdown and intuitively supports above statement: 
-Libertarian Right      37
-Authoritarian Left     32
-Authoritarian          19
-Libertarian            18
-Centrist               18
-Left                   18
-Authoritarian Right     7
-Right                   6
-Libertarian Left        4
-
-![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
-
-* Below are a few more visuals from the notebook
-
-![EconomicWorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/personal_freedom_plotly_map.png)
-![Pairplot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/pairgrid.png)
-![Region](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/region.png)
 ![RegressionJointPlot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regressionjointplot.png)
+
+* Most nations appear to either be in either extreme of Liberterian Right or Authoritarian Left:
+![describe_ideology](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/ideology.png)
+
+* The following is a jointplot with a center scatter plot and side kernel density estimation plots (intuitively supports previous bullet): 
+![RegressionJointPlot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regressionjointplot.png)
+
+* The following is a kernel density estimation for each univariate catergory and a scatterplot for bivariate comparison (expansion upon previous bullet): 
+![Pairplot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/pairgrid.png)
+
+* Personal freedom scores appear to be highest in first world countries and lowest in the Middle East and Northern Africa (MENA): 
+![EconomicWorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/personal_freedom_plotly_map.png)
