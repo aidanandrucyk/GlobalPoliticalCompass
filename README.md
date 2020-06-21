@@ -1,7 +1,7 @@
 # International Political Compass
-![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
-
+Aidan M. Andrucyk, June 2020
 ## For best user interaction, please use the [**Google Colab notebook**](https://colab.research.google.com/drive/1XhuR6I9JEl7EBBPQm05sesLyyV_8NyMp?usp=sharing) as many features including plotly graph interactivity are not available unless using a notebook. 
+![CompassImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/International%20Political%20Compass.png)
 
 **The final dataframe is contigent upon two major data sets: the Human Freedom Index and the Economic Freedom Index.**
 
