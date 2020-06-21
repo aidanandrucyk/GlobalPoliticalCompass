@@ -21,20 +21,20 @@ The [**Economic Freedom Index**](https://www.heritage.org/index/?version=318) tr
 * Utilized Pandas to clean, merge, and analyze Kaggle CSVs of indices on a Jupyter Notebook environment.
 
 ### Findings
-* Each standard deviation less than the respective interquartile range (closest being economic freedom with .280689 > |(.185237-(-.179666))|, indicating little extremeties and clustering around the median.   
+* Each standard deviation less than the respective interquartile range (closest being economic freedom with .280689 > |(.185237-(-.179666))|, indicating little extremeties and clustering around the median.\   
 ![describe_table](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/breakdown.png)
 
-* There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.
+* There is a positive .63 pearson coefficient of correlation between the freedom and economic index scores, indicating a positive linear relationship of the freedom values.\
 ![RegressionJointPlot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regressionjointplot.png)
 
-* Most nations appear to either be in either extreme of Liberterian Right or Authoritarian Left:
+* Most nations appear to either be in either extreme of Liberterian Right or Authoritarian Left:\
 ![describe_ideology](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/ideology.png)
 
-* The following is a jointplot with a center scatter plot and side kernel density estimation plots (intuitively supports previous bullet): 
+* The following is a jointplot with a center scatter plot and side kernel density estimation plots (intuitively supports previous bullet):\
 ![RegressionJointPlot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/regressionjointplot.png)
 
-* The following is a kernel density estimation for each univariate catergory and a scatterplot for bivariate comparison (expansion upon previous bullet): 
+* The following is a kernel density estimation for each univariate catergory and a scatterplot for bivariate comparison (expansion upon previous bullet):\ 
 ![Pairplot](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/pairgrid.png)
 
-* Personal freedom scores appear to be highest in first world countries and lowest in the Middle East and Northern Africa (MENA): 
+* Personal freedom scores appear to be highest in first world countries and lowest in the Middle East and Northern Africa (MENA):\
 ![EconomicWorldMapImage](https://github.com/aidanandrucyk/GlobalPoliticalCompass/blob/master/img/personal_freedom_plotly_map.png)
